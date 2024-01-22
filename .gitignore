@@ -2,4 +2,5 @@ runs
 weights
 *.json
 __pycache__
-*.ipynb
+model.ipynb
+small_test.ipynb
